@@ -8,6 +8,10 @@ public class BasicAddTest {
     }
     @Test
     public void onePlustwoIsThree() {
-        assertEquals(2, BasicAdd.add(1, 1));
+        assertEquals(3, BasicAdd.add(1, 2));
+    }
+    @Test
+    public void twentyThreePlusFortyTwoIsSixtyFive() {
+        assertEquals(65, BasicAdd.add(23, 42));
     }
 }
