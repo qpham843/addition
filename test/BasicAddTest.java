@@ -18,4 +18,8 @@ public class BasicAddTest {
     public void negativeThreePlusoneIsNegativeTwo() {
         assertEquals(-2, BasicAdd.add(-3, 1));
     }
+    @Test
+    public void onePlusonePlusoneIsThree() {
+        assertEquals(3, BasicAdd.add(1, 1, 1));
+    }
 }
