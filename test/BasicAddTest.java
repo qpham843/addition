@@ -14,4 +14,8 @@ public class BasicAddTest {
     public void twentyThreePlusFortyTwoIsSixtyFive() {
         assertEquals(65, BasicAdd.add(23, 42));
     }
+    @Test
+    public void negativeThreePlusoneIsNegativeTwo() {
+        assertEquals(-2, BasicAdd.add(-3, 1));
+    }
 }
