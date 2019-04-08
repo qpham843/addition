@@ -19,8 +19,8 @@ public class DnDCharacter {
     }
 
     public static DnDCharacter randomChar() {
-        String randName = "";
-        String randClass = "";
+        String randName = names[new Random().nextInt(names.length)];
+        String randClass = dndClasses[new Random().nextInt(dndClasses.length)];
         Map<String, Integer> randAttributes = new HashMap<String, Integer>();
         randAttributes.put("Strength", new Random().nextInt(20));
         randAttributes.put("Dexterity", new Random().nextInt(20));

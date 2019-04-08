@@ -18,4 +18,11 @@ public class DnDCharacterTest {
         DnDCharacter myChar = new DnDCharacter("Name", "Class", attributes);
         assertEquals(myChar, myChar);
     }
+
+    @Test
+    public void randomDnDCharacterIsEqualToANewCopyOfIt() {
+        DnDCharacter randChar = DnDCharacter.randomChar();
+        DnDCharacter myChar = new DnDCharacter(randChar.name, randChar.dndClass, randChar.attributes);
+        assertEquals(randChar, myChar);
+    }
 }
