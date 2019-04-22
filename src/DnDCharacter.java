@@ -1,3 +1,5 @@
+import java.util.Random;
+
 public class DnDCharacter {
     //Understands a character's interactions with the world.
     CharacterSheet charSheet;
@@ -9,5 +11,10 @@ public class DnDCharacter {
     public int getModifier(String attribute) {
         int attr = charSheet.attributes.get(attribute);
         return (attr - 10)/2;
+    }
+
+    public int roll(String attribute) {
+        int rollNumber = new Random().nextInt(20);
+        return rollNumber + getModifier(attribute);
     }
 }

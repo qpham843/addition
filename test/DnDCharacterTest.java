@@ -4,6 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import static org.junit.Assert.assertEquals;
+import static org.junit.Assert.assertTrue;
 
 public class DnDCharacterTest {
     private static Map<String, Integer> attributes = new HashMap<String, Integer>();
@@ -22,5 +23,10 @@ public class DnDCharacterTest {
     @Test
     public void myCharHasIntelligenceModifierOf0() {
         assertEquals(0, myChar.getModifier("Intelligence"));
+    }
+
+    @Test
+    public void myCharHasStrengthModifierOfNegativeFive() {
+        assertEquals(-5, myChar.getModifier("Strength"));
     }
 }
