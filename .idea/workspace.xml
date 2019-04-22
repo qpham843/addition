@@ -6,16 +6,41 @@
       <change afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/addition1.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Division.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/DivisionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CharacterSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/CharacterSheetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AEP19/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AEP19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/production/AEP19/META-INF/AEP19.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/ArithmeticUnits.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/ArithmeticUnits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/Bestable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/Bestable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/BestableComparer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/BestableComparer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/Chance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/Chance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/ReverseString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/ReverseString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/ScaledUnits.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/ScaledUnits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/Square.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/Square.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/UnitCategory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/UnitCategory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/UnitType.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/production/AEP19/edu/berkeley/aep/UnitType.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/test/AEP19/META-INF/AEP19.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../AEP19/out/test/AEP19/edu/berkeley/aep/BestableComparerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/test/AEP19/edu/berkeley/aep/BestableComparerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/test/AEP19/edu/berkeley/aep/ChanceTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/test/AEP19/edu/berkeley/aep/ChanceTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/test/AEP19/edu/berkeley/aep/RectangleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/test/AEP19/edu/berkeley/aep/RectangleTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/test/AEP19/edu/berkeley/aep/ReverseStringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/test/AEP19/edu/berkeley/aep/ReverseStringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AEP19/out/test/AEP19/edu/berkeley/aep/SquareTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/test/AEP19/edu/berkeley/aep/SquareTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AEP19/out/test/AEP19/edu/berkeley/aep/UnitsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/out/test/AEP19/edu/berkeley/aep/UnitsTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AEP19/src/edu/berkeley/aep/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/src/edu/berkeley/aep/ReverseString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AEP19/test/edu/berkeley/aep/BestableComparerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/test/edu/berkeley/aep/BestableComparerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AEP19/test/edu/berkeley/aep/UnitsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/test/edu/berkeley/aep/UnitsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/addition1/DnDCharacter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/addition1/DnDCharacter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/addition1/META-INF/addition1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/addition1/DnDCharacterTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/addition1/DnDCharacterTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/addition1/META-INF/addition1.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DnDCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DnDCharacter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/DnDCharacterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/DnDCharacterTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aep2019" beforeDir="false" afterPath="$PROJECT_DIR$/../aep2019" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,69 +50,74 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/PositiveAdd.java">
+        <entry file="file://$PROJECT_DIR$/src/CharacterSheet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Division.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="73" selection-start-line="6" selection-start-column="73" selection-end-line="6" selection-end-column="73" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/PositiveAddTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="221">
+              <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#337#338#0" expanded="true" />
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
-                <element signature="e#573#574#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
-                <element signature="e#745#746#0" expanded="true" />
-                <element signature="e#782#783#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/DnDCharacter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+              <folding>
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/DivisionTest.java">
+        <entry file="file://$PROJECT_DIR$/test/DnDCharacterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="391">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#279#280#0" expanded="true" />
-                <element signature="e#317#318#0" expanded="true" />
+                <element signature="e#200#217#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.xml">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/test/CharacterSheetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="39" selection-end-column="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Grid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding>
+                <element signature="e#308#309#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -100,6 +130,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -115,14 +146,19 @@
         <option value="$PROJECT_DIR$/test/PositiveAddTest.java" />
         <option value="$PROJECT_DIR$/src/Division.java" />
         <option value="$PROJECT_DIR$/test/DivisionTest.java" />
+        <option value="$PROJECT_DIR$/test/WorldTest.java" />
+        <option value="$PROJECT_DIR$/src/CharacterSheet.java" />
+        <option value="$PROJECT_DIR$/src/Grid.java" />
+        <option value="$PROJECT_DIR$/test/DnDCharacterTest.java" />
+        <option value="$PROJECT_DIR$/src/DnDCharacter.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="876" />
+    <option name="x" value="200" />
+    <option name="y" value="107" />
+    <option name="width" value="1200" />
+    <option name="height" value="646" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -130,7 +166,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -153,6 +188,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,12 +196,13 @@
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554156213489" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555638369216" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/git-bash.exe" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -184,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in addition1 (1)">
+  <component name="RunManager" selected="JUnit.DnDCharacterTest.myCharHasIntelligenceModifierOf0">
     <configuration name="All in addition1 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="addition1" />
       <option name="PACKAGE_NAME" value="" />
@@ -193,10 +230,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="All in addition1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CharacterSheetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="addition1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
+      <option name="MAIN_CLASS_NAME" value="CharacterSheetTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CharacterSheetTest.randomDnDCharacterIsNotEqualToAPremadeCharacterWithNonStandardNameAndClass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="addition1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CharacterSheetTest" />
+      <option name="METHOD_NAME" value="randomDnDCharacterIsNotEqualToAPremadeCharacterWithNonStandardNameAndClass" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -211,21 +259,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivisionTest.oneDividedByOneIsOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DnDCharacterTest.myCharHasIntelligenceModifierOf0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="addition1" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DivisionTest" />
-      <option name="METHOD_NAME" value="oneDividedByOneIsOne" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PositiveAddTest.aNegativeNumberisAnIllegalArgument" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="addition1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="PositiveAddTest" />
-      <option name="METHOD_NAME" value="aNegativeNumberisAnIllegalArgument" />
+      <option name="MAIN_CLASS_NAME" value="DnDCharacterTest" />
+      <option name="METHOD_NAME" value="myCharHasIntelligenceModifierOf0" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -233,11 +271,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.DnDCharacterTest.myCharHasIntelligenceModifierOf0" />
+        <item itemvalue="JUnit.CharacterSheetTest" />
+        <item itemvalue="JUnit.CharacterSheetTest.randomDnDCharacterIsNotEqualToAPremadeCharacterWithNonStandardNameAndClass" />
         <item itemvalue="JUnit.All in addition1 (1)" />
         <item itemvalue="JUnit.DivisionTest.aZeroDivisorIsAnIllegalArgument" />
-        <item itemvalue="JUnit.DivisionTest.oneDividedByOneIsOne" />
-        <item itemvalue="JUnit.All in addition1" />
-        <item itemvalue="JUnit.PositiveAddTest.aNegativeNumberisAnIllegalArgument" />
       </list>
     </recent_temporary>
   </component>
@@ -255,35 +293,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BasicAddTest - 2019.04.01 at 14h 01m 30s.xml">
-      <configuration name="BasicAddTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="All_in_addition1 - 2019.04.01 at 14h 02m 39s.xml">
-      <configuration name="All in addition1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BasicAddTest_onePlustwoIsThree - 2019.04.01 at 14h 08m 15s.xml">
-      <configuration name="BasicAddTest.onePlustwoIsThree" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BasicAddTest_negativeThreePlusoneIsNegativeTwo - 2019.04.01 at 14h 16m 16s.xml">
-      <configuration name="BasicAddTest.negativeThreePlusoneIsNegativeTwo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BasicAddTest_onePlusonePlusoneIsThree - 2019.04.01 at 14h 19m 35s.xml">
-      <configuration name="BasicAddTest.onePlusonePlusoneIsThree" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BasicAddTest - 2019.04.01 at 14h 19m 42s.xml">
-      <configuration name="BasicAddTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="BasicAddTest_theCharacterAisAnIllegalArgument - 2019.04.01 at 14h 31m 43s.xml">
-      <configuration name="BasicAddTest.theCharacterAisAnIllegalArgument" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PositiveAddTest_aNegativeNumberisAnIllegalArgument - 2019.04.01 at 14h 43m 15s.xml">
-      <configuration name="PositiveAddTest.aNegativeNumberisAnIllegalArgument" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_addition1 - 2019.04.01 at 14h 46m 45s.xml">
       <configuration name="All in addition1" configurationId="JUnit" />
     </history-entry>
     <history-entry file="DivisionTest_oneDividedByOneIsOne - 2019.04.01 at 14h 57m 36s.xml">
       <configuration name="DivisionTest.oneDividedByOneIsOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DivisionTest_aZeroDivisorIsAnIllegalArgument - 2019.04.01 at 15h 02m 27s.xml">
+      <configuration name="DivisionTest.aZeroDivisorIsAnIllegalArgument" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_addition1_(1) - 2019.04.01 at 15h 03m 16s.xml">
+      <configuration name="All in addition1 (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DnDCharacterTest - 2019.04.08 at 14h 08m 09s.xml">
+      <configuration name="DnDCharacterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DnDCharacterTest - 2019.04.08 at 15h 11m 34s.xml">
+      <configuration name="DnDCharacterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DnDCharacterTest_randomDnDCharacterIsNotEqualToAPremadeCharacterWithNonStandardNameAndClass - 2019.04.08 at 15h 48m 40s.xml">
+      <configuration name="DnDCharacterTest.randomDnDCharacterIsNotEqualToAPremadeCharacterWithNonStandardNameAndClass" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DnDCharacterTest - 2019.04.15 at 12h 59m 37s.xml">
+      <configuration name="DnDCharacterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharacterSheetTest - 2019.04.21 at 15h 16m 02s.xml">
+      <configuration name="CharacterSheetTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DnDCharacterTest_myCharHasIntelligenceModifierOf0 - 2019.04.21 at 22h 34m 36s.xml">
+      <configuration name="DnDCharacterTest.myCharHasIntelligenceModifierOf0" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -294,7 +332,7 @@
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
-      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.25321338" />
+      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.23393317" />
       <window_info id="Image Layers" order="5" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" />
@@ -303,7 +341,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32974428" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32839838" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -323,20 +361,7 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.js" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/BasicAddTest">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" lean-forward="true" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/BasicAddTest" />
     <entry file="file://$PROJECT_DIR$/src/PositiveAdd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -351,38 +376,85 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/test/PositiveAddTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="25" column="4" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="255">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="28" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#337#338#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
             <element signature="e#745#746#0" expanded="true" />
-            <element signature="e#782#783#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/DivisionTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#147#148#0" expanded="true" />
             <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#317#318#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/WorldTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Grid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/CharacterSheetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="39" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DnDCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CharacterSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="33" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/DnDCharacterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#200#217#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -427,7 +499,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>9.0</last-edited>
+          <last-edited>12</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -444,7 +516,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
@@ -452,7 +523,7 @@
       </state>
       <state key="ProjectJDKs.UI">
         <settings>
-          <last-edited>9.0</last-edited>
+          <last-edited>11.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
