@@ -29,4 +29,9 @@ public class DnDCharacterTest {
     public void myCharHasStrengthModifierOfNegativeFive() {
         assertEquals(-5, myChar.getModifier("Strength"));
     }
+
+    @Test
+    public void myCharHasCharismaModifierOf4() {
+        assertEquals(4, myChar.getModifier("Charisma"));
+    }
 }
