@@ -34,4 +34,11 @@ public class DnDCharacterTest {
     public void myCharHasCharismaModifierOf4() {
         assertEquals(4, myChar.getModifier("Charisma"));
     }
+
+    @Test
+    public void intelligenceRollIsAlwaysGreaterThan0() {
+        for (int i = 0; i < 100; i += 1) {
+            assertTrue(myChar.roll("Intelligence") >= 0);
+        }
+    }
 }
