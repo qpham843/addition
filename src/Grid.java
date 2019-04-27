@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class Grid {
     int height;
     int width;
-    Object[][] grid;
+    Position[][] grid;
 
     Grid(int height, int width) {
         this.height = height;
@@ -14,6 +14,10 @@ public class Grid {
 
     public void place(DnDCharacter character, int x, int y) {
         this.grid[y][x] = new Position(x, y, character);
+    }
+
+    public Position get(int x, int y) {
+        return this.grid[y][x];
     }
 
     public Position findChar(DnDCharacter character) {
@@ -33,6 +37,7 @@ public class Grid {
         return Math.abs(xdist) + Math.abs(ydist);
     }
 
+    @Override
     public boolean equals(Object other) {
         if (this == other) {
             return true;

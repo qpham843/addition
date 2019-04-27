@@ -2,16 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93a75d3e-e046-4f00-808d-3e0608409e84" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Position.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/GridTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../myTest/src/Simple.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../myTest/src/src.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../myTest/test/SimpleTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../myTest/test/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AEP19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CharacterSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CharacterSheet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DnDCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DnDCharacter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Grid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/GridTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/GridTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aep2019" beforeDir="false" afterPath="$PROJECT_DIR$/../aep2019" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp/.circleci/config.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp/.idea/encodings.xml" beforeDir="false" />
@@ -43,8 +41,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/CharacterSheet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            <state relative-caret-position="212">
+              <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -55,8 +53,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DnDCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="476">
+              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -64,20 +62,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/GridTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/CharacterSheetTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
+            <state relative-caret-position="459">
+              <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -88,12 +74,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Grid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+            <state relative-caret-position="340">
+              <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#308#309#0" expanded="true" />
                 <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#480#481#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/CharacterSheetTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -149,12 +149,12 @@
         <option value="$PROJECT_DIR$/src/Division.java" />
         <option value="$PROJECT_DIR$/test/DivisionTest.java" />
         <option value="$PROJECT_DIR$/test/WorldTest.java" />
-        <option value="$PROJECT_DIR$/src/DnDCharacter.java" />
         <option value="$PROJECT_DIR$/test/DnDCharacterTest.java" />
         <option value="$PROJECT_DIR$/src/Position.java" />
+        <option value="$PROJECT_DIR$/src/CharacterSheet.java" />
+        <option value="$PROJECT_DIR$/src/DnDCharacter.java" />
         <option value="$PROJECT_DIR$/src/Grid.java" />
         <option value="$PROJECT_DIR$/test/GridTest.java" />
-        <option value="$PROJECT_DIR$/src/CharacterSheet.java" />
       </list>
     </option>
   </component>
@@ -225,22 +225,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GridTest.twoGridsOfSize1AreEqual">
+  <component name="RunManager" selected="JUnit.GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual">
     <configuration name="DnDCharacterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="addition1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="DnDCharacterTest" />
       <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DnDCharacterTest.intelligenceRollIsAlwaysGreaterThan0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="addition1" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="DnDCharacterTest" />
-      <option name="METHOD_NAME" value="intelligenceRollIsAlwaysGreaterThan0" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -274,13 +264,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="addition1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GridTest" />
+      <option name="METHOD_NAME" value="twoGridsOfSize1WithTheSameCharacterInsideAreEqual" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" />
         <item itemvalue="JUnit.GridTest.twoGridsOfSize1AreEqual" />
         <item itemvalue="JUnit.GridTest" />
         <item itemvalue="JUnit.GridTest.twoGridsOfSize0AreEqual" />
         <item itemvalue="JUnit.DnDCharacterTest" />
-        <item itemvalue="JUnit.DnDCharacterTest.intelligenceRollIsAlwaysGreaterThan0" />
       </list>
     </recent_temporary>
   </component>
@@ -298,35 +298,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DnDCharacterTest - 2019.04.08 at 15h 11m 34s.xml">
-      <configuration name="DnDCharacterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DnDCharacterTest_randomDnDCharacterIsNotEqualToAPremadeCharacterWithNonStandardNameAndClass - 2019.04.08 at 15h 48m 40s.xml">
-      <configuration name="DnDCharacterTest.randomDnDCharacterIsNotEqualToAPremadeCharacterWithNonStandardNameAndClass" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DnDCharacterTest - 2019.04.15 at 12h 59m 37s.xml">
-      <configuration name="DnDCharacterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="CharacterSheetTest - 2019.04.21 at 15h 16m 02s.xml">
-      <configuration name="CharacterSheetTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DnDCharacterTest_myCharHasIntelligenceModifierOf0 - 2019.04.21 at 22h 34m 36s.xml">
-      <configuration name="DnDCharacterTest.myCharHasIntelligenceModifierOf0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DnDCharacterTest_myCharHasIntelligenceModifierOf0 - 2019.04.21 at 22h 40m 59s.xml">
-      <configuration name="DnDCharacterTest.myCharHasIntelligenceModifierOf0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DnDCharacterTest - 2019.04.22 at 12h 57m 56s.xml">
-      <configuration name="DnDCharacterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DnDCharacterTest_intelligenceRollIsAlwaysGreaterThan0 - 2019.04.22 at 13h 02m 11s.xml">
-      <configuration name="DnDCharacterTest.intelligenceRollIsAlwaysGreaterThan0" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DnDCharacterTest_intelligenceRollIsAlwaysGreaterThan0 - 2019.04.22 at 13h 02m 25s.xml">
-      <configuration name="DnDCharacterTest.intelligenceRollIsAlwaysGreaterThan0" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="DnDCharacterTest - 2019.04.22 at 13h 05m 11s.xml">
       <configuration name="DnDCharacterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GridTest - 2019.04.26 at 17h 05m 09s.xml">
+      <configuration name="GridTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GridTest_twoGridsOfSize1AreEqual - 2019.04.26 at 17h 07m 54s.xml">
+      <configuration name="GridTest.twoGridsOfSize1AreEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GridTest_twoGridsOfSize1WithTheSameCharacterInsideAreEqual - 2019.04.26 at 17h 11m 28s.xml">
+      <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GridTest_twoGridsOfSize1WithTheSameCharacterInsideAreEqual - 2019.04.26 at 17h 11m 42s.xml">
+      <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GridTest_twoGridsOfSize1WithTheSameCharacterInsideAreEqual - 2019.04.26 at 17h 12m 13s.xml">
+      <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GridTest_twoGridsOfSize1WithTheSameCharacterInsideAreEqual - 2019.04.26 at 17h 12m 27s.xml">
+      <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GridTest_twoGridsOfSize1WithTheSameCharacterInsideAreEqual - 2019.04.26 at 17h 12m 40s.xml">
+      <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GridTest_twoGridsOfSize1WithTheSameCharacterInsideAreEqual - 2019.04.26 at 17h 12m 56s.xml">
+      <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GridTest_twoGridsOfSize1WithTheSameCharacterInsideAreEqual - 2019.04.26 at 17h 14m 05s.xml">
+      <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -346,7 +346,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.32839838" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32827735" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -428,49 +428,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Grid.java">
+    <entry file="file://$PROJECT_DIR$/test/CharacterSheetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        <state relative-caret-position="204">
+          <caret line="15" column="42" lean-forward="true" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CharacterSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DnDCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="476">
+          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CharacterSheet.java">
+    <entry file="file://$PROJECT_DIR$/src/Grid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="33" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        <state relative-caret-position="340">
+          <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/CharacterSheetTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="57" selection-start-line="24" selection-start-column="57" selection-end-line="24" selection-end-column="57" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/GridTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        <state relative-caret-position="459">
+          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

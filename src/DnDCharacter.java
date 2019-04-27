@@ -17,4 +17,20 @@ public class DnDCharacter {
         int rollNumber = new Random().nextInt(20);
         return rollNumber + getModifier(attribute);
     }
+
+    @Override
+    public boolean equals(Object other) {
+        if (this == other) {
+            return true;
+        }
+        if (!(other instanceof DnDCharacter)) {
+            return false;
+        }
+
+        DnDCharacter otherChar = (DnDCharacter) other;
+        if (this.charSheet.equals(((DnDCharacter) other).charSheet)) {
+            return true;
+        }
+        return false;
+    }
 }
