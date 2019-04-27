@@ -45,4 +45,11 @@ public class GridTest {
         Position pos = new Position(0, 0 , randChar);
         assertEquals(pos, grid1.findChar(randChar));
     }
+
+    @Test
+    public void distanceBetween00and00Is0() {
+        Position pos1 = new Position(0, 0);
+        Position pos2 = new Position(0, 0);
+        assertEquals(0, Grid.distance(pos1, pos2));
+    }
 }

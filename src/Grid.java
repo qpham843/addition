@@ -31,7 +31,7 @@ public class Grid {
         return null;
     }
 
-    public int distance(Position pos1, Position pos2) {
+    public static int distance(Position pos1, Position pos2) {
         int xdist = pos1.x - pos2.x;
         int ydist = pos1.y - pos2.y;
         return Math.abs(xdist) + Math.abs(ydist);
