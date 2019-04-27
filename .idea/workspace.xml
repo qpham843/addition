@@ -224,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GridTest.distanceBetween00and00Is0">
+  <component name="RunManager" selected="JUnit.GridTest.distanceBetween00and11Is2">
     <configuration name="GridTest.distanceBetween00and00Is0" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="addition1" />
       <option name="PACKAGE_NAME" value="" />
@@ -235,21 +235,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GridTest.findCharacterAtPosition00WillReturnPosition00" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GridTest.distanceBetween00and11Is2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="addition1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="GridTest" />
-      <option name="METHOD_NAME" value="findCharacterAtPosition00WillReturnPosition00" />
+      <option name="METHOD_NAME" value="distanceBetween00and11Is2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GridTest.twoGridsOfSize1AreEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GridTest.findCharacterAtPosition00WillReturnPosition00" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="addition1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="GridTest" />
-      <option name="METHOD_NAME" value="twoGridsOfSize1AreEqual" />
+      <option name="METHOD_NAME" value="findCharacterAtPosition00WillReturnPosition00" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -277,11 +277,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GridTest.distanceBetween00and11Is2" />
         <item itemvalue="JUnit.GridTest.distanceBetween00and00Is0" />
         <item itemvalue="JUnit.GridTest.findCharacterAtPosition00WillReturnPosition00" />
         <item itemvalue="JUnit.GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" />
         <item itemvalue="JUnit.GridTest.twoGridsOfUnequalSizeAreNotEqual" />
-        <item itemvalue="JUnit.GridTest.twoGridsOfSize1AreEqual" />
       </list>
     </recent_temporary>
   </component>

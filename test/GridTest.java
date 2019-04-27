@@ -52,4 +52,11 @@ public class GridTest {
         Position pos2 = new Position(0, 0);
         assertEquals(0, Grid.distance(pos1, pos2));
     }
+
+    @Test
+    public void distanceBetween00and11Is2() {
+        Position pos1 = new Position(0, 0);
+        Position pos2 = new Position(1, 1);
+        assertEquals(2, Grid.distance(pos1, pos2));
+    }
 }
