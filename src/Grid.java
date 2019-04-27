@@ -37,6 +37,16 @@ public class Grid {
         return Math.abs(xdist) + Math.abs(ydist);
     }
 
+    public int distance(DnDCharacter character, Position pos2) {
+        Position pos1 = this.findChar(character);
+        if (pos1 == null) {
+            return -1;
+        }
+        int xdist = pos1.x - pos2.x;
+        int ydist = pos1.y - pos2.y;
+        return Math.abs(xdist) + Math.abs(ydist);
+    }
+
     @Override
     public boolean equals(Object other) {
         if (this == other) {

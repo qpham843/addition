@@ -59,4 +59,14 @@ public class GridTest {
         Position pos2 = new Position(1, 1);
         assertEquals(2, Grid.distance(pos1, pos2));
     }
+
+    @Test
+    public void distanceBetweenACharacterAt00and11Is2() {
+        Grid grid1 = new Grid(2, 2);
+        CharacterSheet randSheet = CharacterSheet.randomChar();
+        DnDCharacter randChar = new DnDCharacter(randSheet);
+        grid1.place(randChar, 0, 0);
+        Position pos2 = new Position(1, 1);
+        assertEquals(2, Grid.distance(grid1.findChar(randChar), pos2));
+    }
 }
