@@ -7,7 +7,6 @@
       <change afterPath="$PROJECT_DIR$/../myTest/test/SimpleTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../myTest/test/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AEP19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Grid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/GridTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/GridTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aep2019" beforeDir="false" afterPath="$PROJECT_DIR$/../aep2019" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp/.circleci/config.yml" beforeDir="false" />
@@ -61,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/GridTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+            <state relative-caret-position="382">
+              <caret line="64" column="33" lean-forward="true" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -73,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Grid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+            <state relative-caret-position="399">
+              <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#308#309#0" expanded="true" />
@@ -299,15 +298,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="GridTest_twoGridsOfSize1WithTheSameCharacterInsideAreEqual - 2019.04.26 at 17h 12m 40s.xml">
-      <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GridTest_twoGridsOfSize1WithTheSameCharacterInsideAreEqual - 2019.04.26 at 17h 12m 56s.xml">
-      <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GridTest_twoGridsOfSize1WithTheSameCharacterInsideAreEqual - 2019.04.26 at 17h 14m 05s.xml">
-      <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GridTest_twoGridsOfSize1WithTheSameCharacterInsideAreEqual - 2019.04.26 at 17h 15m 51s.xml">
       <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" configurationId="JUnit" />
     </history-entry>
@@ -328,6 +318,15 @@
     </history-entry>
     <history-entry file="GridTest_findCharacterAtPosition00WillReturnPosition00 - 2019.04.26 at 17h 24m 12s.xml">
       <configuration name="GridTest.findCharacterAtPosition00WillReturnPosition00" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GridTest_distanceBetween00and00Is0 - 2019.04.26 at 17h 26m 20s.xml">
+      <configuration name="GridTest.distanceBetween00and00Is0" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GridTest_distanceBetween00and11Is2 - 2019.04.26 at 17h 27m 10s.xml">
+      <configuration name="GridTest.distanceBetween00and11Is2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GridTest_distanceBetweenACharacterAt00and11Is2 - 2019.04.26 at 17h 30m 06s.xml">
+      <configuration name="GridTest.distanceBetweenACharacterAt00and11Is2" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -469,8 +468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Grid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="33" column="18" selection-start-line="33" selection-start-column="18" selection-end-line="33" selection-end-column="18" />
+        <state relative-caret-position="399">
+          <caret line="42" column="22" selection-start-line="42" selection-start-column="22" selection-end-line="42" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#308#309#0" expanded="true" />
@@ -483,8 +482,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/GridTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="50" column="21" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
+        <state relative-caret-position="382">
+          <caret line="64" column="33" lean-forward="true" selection-start-line="64" selection-start-column="33" selection-end-line="64" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

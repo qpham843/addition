@@ -67,6 +67,6 @@ public class GridTest {
         DnDCharacter randChar = new DnDCharacter(randSheet);
         grid1.place(randChar, 0, 0);
         Position pos2 = new Position(1, 1);
-        assertEquals(2, Grid.distance(grid1.findChar(randChar), pos2));
+        assertEquals(2, grid1.distance(randChar, pos2));
     }
 }
