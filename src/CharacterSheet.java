@@ -18,16 +18,31 @@ public class CharacterSheet {
     }
 
     public static CharacterSheet randomChar() {
-        String randName = names[new Random().nextInt(names.length)];
-        String randClass = dndClasses[new Random().nextInt(dndClasses.length)];
+        Random rand = new Random();
+        String randName = names[rand.nextInt(names.length)];
+        String randClass = dndClasses[rand.nextInt(dndClasses.length)];
         Map<String, Integer> randAttributes = new HashMap<String, Integer>();
-        randAttributes.put("Strength", new Random().nextInt(20));
-        randAttributes.put("Dexterity", new Random().nextInt(20));
-        randAttributes.put("Constitution", new Random().nextInt(20));
-        randAttributes.put("Intelligence", new Random().nextInt(20));
-        randAttributes.put("Wisdom", new Random().nextInt(20));
-        randAttributes.put("Charisma", new Random().nextInt(20));
+        randAttributes.put("Strength", CharacterSheet.rollAttribute());
+        randAttributes.put("Dexterity", CharacterSheet.rollAttribute());
+        randAttributes.put("Constitution", CharacterSheet.rollAttribute());
+        randAttributes.put("Intelligence", CharacterSheet.rollAttribute());
+        randAttributes.put("Wisdom", CharacterSheet.rollAttribute());
+        randAttributes.put("Charisma", CharacterSheet.rollAttribute());
         return new CharacterSheet(randName, randClass, randAttributes);
+    }
+
+    public static int rollAttribute(){
+        Random rand = new Random();
+        int minval = 20;
+        int attribute = 0;
+        for (int i = 0; i < 4; i += 1) {
+           int val = rand.nextInt(6) + 1;
+           attribute += val;
+           if (val < minval) {
+               minval = val;
+           }
+        }
+        return attribute - minval;
     }
 
     public boolean equals(Object other) {
