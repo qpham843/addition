@@ -23,8 +23,8 @@ public class Grid {
     public Position findChar(DnDCharacter character) {
         for (int i = 0; i < this.height; i += 1) {
             for (int j = 0; j < this.width; j += 1) {
-                if (this.grid[i][j].equals(character)) {
-                    return new Position(j, i);
+                if (this.grid[i][j] != null && this.grid[i][j].inhabitant.equals(character)) {
+                    return this.grid[i][j];
                 }
             }
         }

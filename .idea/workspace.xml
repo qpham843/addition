@@ -7,8 +7,6 @@
       <change afterPath="$PROJECT_DIR$/../myTest/test/SimpleTest.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../myTest/test/test.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../AEP19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AEP19/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DnDCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DnDCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Grid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Grid.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/GridTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/GridTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../aep2019" beforeDir="false" afterPath="$PROJECT_DIR$/../aep2019" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../temp/.circleci/config.yml" beforeDir="false" />
@@ -53,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DnDCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state relative-caret-position="212">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -62,8 +60,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/GridTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+            <state relative-caret-position="416">
+              <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -74,7 +72,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Grid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="-77">
               <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -102,8 +100,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Position.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+            <state relative-caret-position="280">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -150,10 +148,10 @@
         <option value="$PROJECT_DIR$/test/DivisionTest.java" />
         <option value="$PROJECT_DIR$/test/WorldTest.java" />
         <option value="$PROJECT_DIR$/test/DnDCharacterTest.java" />
-        <option value="$PROJECT_DIR$/src/Position.java" />
         <option value="$PROJECT_DIR$/src/CharacterSheet.java" />
-        <option value="$PROJECT_DIR$/src/DnDCharacter.java" />
         <option value="$PROJECT_DIR$/src/Grid.java" />
+        <option value="$PROJECT_DIR$/src/Position.java" />
+        <option value="$PROJECT_DIR$/src/DnDCharacter.java" />
         <option value="$PROJECT_DIR$/test/GridTest.java" />
       </list>
     </option>
@@ -225,7 +223,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GridTest.twoGridsOfUnequalSizeAreNotEqual">
+  <component name="RunManager" selected="JUnit.GridTest.findCharacterAtPosition00WillReturnPosition00">
     <configuration name="GridTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="addition1" />
       <option name="PACKAGE_NAME" value="" />
@@ -235,11 +233,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GridTest.twoGridsOfSize0AreEqual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="GridTest.findCharacterAtPosition00WillReturnPosition00" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="addition1" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="GridTest" />
-      <option name="METHOD_NAME" value="twoGridsOfSize0AreEqual" />
+      <option name="METHOD_NAME" value="findCharacterAtPosition00WillReturnPosition00" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -277,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.GridTest.twoGridsOfUnequalSizeAreNotEqual" />
+        <item itemvalue="JUnit.GridTest.findCharacterAtPosition00WillReturnPosition00" />
         <item itemvalue="JUnit.GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" />
+        <item itemvalue="JUnit.GridTest.twoGridsOfUnequalSizeAreNotEqual" />
         <item itemvalue="JUnit.GridTest.twoGridsOfSize1AreEqual" />
         <item itemvalue="JUnit.GridTest" />
-        <item itemvalue="JUnit.GridTest.twoGridsOfSize0AreEqual" />
       </list>
     </recent_temporary>
   </component>
@@ -299,15 +297,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DnDCharacterTest - 2019.04.22 at 13h 05m 11s.xml">
-      <configuration name="DnDCharacterTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GridTest - 2019.04.26 at 17h 05m 09s.xml">
-      <configuration name="GridTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="GridTest_twoGridsOfSize1AreEqual - 2019.04.26 at 17h 07m 54s.xml">
-      <configuration name="GridTest.twoGridsOfSize1AreEqual" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="GridTest_twoGridsOfSize1WithTheSameCharacterInsideAreEqual - 2019.04.26 at 17h 11m 28s.xml">
       <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" configurationId="JUnit" />
     </history-entry>
@@ -328,6 +317,15 @@
     </history-entry>
     <history-entry file="GridTest_twoGridsOfSize1WithTheSameCharacterInsideAreEqual - 2019.04.26 at 17h 14m 05s.xml">
       <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GridTest_twoGridsOfSize1WithTheSameCharacterInsideAreEqual - 2019.04.26 at 17h 15m 51s.xml">
+      <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GridTest_twoGridsOfSize1WithTheSameCharacterInsideAreEqual - 2019.04.26 at 17h 17m 59s.xml">
+      <configuration name="GridTest.twoGridsOfSize1WithTheSameCharacterInsideAreEqual" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GridTest_twoGridsOfUnequalSizeAreNotEqual - 2019.04.26 at 17h 19m 24s.xml">
+      <configuration name="GridTest.twoGridsOfUnequalSizeAreNotEqual" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -422,10 +420,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/CharacterSheet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-12.0.1/lib/src.zip!/java.base/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="154" column="19" selection-start-line="154" selection-start-column="19" selection-end-line="154" selection-end-column="19" />
+          <folding>
+            <element signature="e#5757#5758#0" expanded="true" />
+            <element signature="e#5793#5794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Position.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="37" lean-forward="true" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        <state relative-caret-position="280">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -439,26 +458,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CharacterSheet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="47" column="4" selection-start-line="47" selection-start-column="4" selection-end-line="60" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DnDCharacter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        <state relative-caret-position="212">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Grid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="-77">
           <caret line="20" column="5" lean-forward="true" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -472,8 +481,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/GridTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="51" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+        <state relative-caret-position="416">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

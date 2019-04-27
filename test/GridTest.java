@@ -33,6 +33,16 @@ public class GridTest {
         DnDCharacter randChar = new DnDCharacter(randSheet);
         grid1.place(randChar, 0, 0);
         grid2.place(randChar, 0 , 0);
-        assertEquals(grid1.get(0,0), grid2.get(0,0));
+        assertEquals(grid1, grid2);
+    }
+
+    @Test
+    public void findCharacterAtPosition00WillReturnPosition00() {
+        Grid grid1 = new Grid(1, 1);
+        CharacterSheet randSheet = CharacterSheet.randomChar();
+        DnDCharacter randChar = new DnDCharacter(randSheet);
+        grid1.place(randChar, 0, 0);
+        Position pos = new Position(0, 0 , randChar);
+        assertEquals(pos, grid1.findChar(randChar));
     }
 }
